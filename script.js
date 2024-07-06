@@ -11,24 +11,24 @@
                 answer: "To checkmate the opponent's king"
             },
             {
-                question: "Who is the current World Chess Champion?",
-                options: ["Magnus Carlsen", "Fabiano Caruana", "Hikaru Nakamura", "Viswanathan Anand"],
-                answer: "Magnus Carlsen"
+                question: "What is the only piece that can jump over other pieces?",
+                options: ["Bishop", "Rook", "Knight", "Queen"],
+                answer: "Knight"
             },
             {
-                question: "What is the goal of chess?",
-                options: ["To capture the opponent's king", "To checkmate the opponent's king", "To capture all opponent's pieces", "To have the most pawns"],
-                answer: "To checkmate the opponent's king"
+                question: "What is the name of the move where the king and a rook move simultaneously?",
+                options: ["En passant", "Castling", "Forking", " Pinning"],
+                answer: "Castling"
             },
             {
-                question: "Who is the current World Chess Champion?",
-                options: ["Magnus Carlsen", "Fabiano Caruana", "Hikaru Nakamura", "Viswanathan Anand"],
-                answer: "Magnus Carlsen"
+                question: "Which piece can move diagonally, horizontally, or vertically any number of squares?",
+                options: ["King", "Queen", "Rook", "Knight"],
+                answer: "Queen"
             },
             {
-                question: "What is the goal of chess?",
-                options: ["To capture the opponent's king", "To checkmate the opponent's king", "To capture all opponent's pieces", "To have the most pawns"],
-                answer: "To checkmate the opponent's king"
+                question: "What is the term for a check that cannot be escaped, resulting in the end of the game?",
+                options: ["Stalemate", "Checkmate", "Draw", "Pin"],
+                answer: "Checkmate"
             },
             
         ];

@@ -79,7 +79,7 @@
             border-radius: 12px;
             background-color: rgba(0, 0, 0, 0.5); /* semi-transparent background */
             margin: 20px auto; /* Center horizontally */
-            max-width: 800px; /* Limit maximum width */
+            width: 800px; /* Limit maximum width */
         }
         .section h2 {
             padding: 0 45px;
@@ -100,7 +100,7 @@
         }
         .parallax {
             background-image: url('your-image.jpg');
-            height: 100vh;
+            
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
@@ -120,6 +120,7 @@
             justify-content: center; */
             
         }
+        
         footer p{
             display: block;
              width: 100%; 
