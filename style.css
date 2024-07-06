@@ -126,4 +126,7 @@
              width: 100%; 
              text-align: center;
         }
+        footer a{
+            display: block;
+        }
  
